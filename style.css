@@ -68,6 +68,10 @@ body {
 .botoes {
     display: block;
 }
+@media screen  and (min-width: 760px){
+ .botao{
+       display:  flex;   
+}
 
 
 
