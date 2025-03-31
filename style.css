@@ -72,12 +72,11 @@ body {
  .botao{
        display:  flex; 
     }  
-}
 .botao:first-child {
     border-radius: 40px 0 0 0;
 }
 .botao:last-child{
     border-radius: 0 40PX 0 0;
 }
-
+}
 
