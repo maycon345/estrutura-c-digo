@@ -91,6 +91,10 @@ body {
     display:block;
 }
 .aba-coteúdo{
-    display: nome;
+    display:nome;
 }
-
+.aba-texto{
+    background-color: ver(--texto-fundo);
+    padding: 40px;
+    border-radius:0 0 40px 40px ;
+}
