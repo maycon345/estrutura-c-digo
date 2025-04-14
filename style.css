@@ -87,4 +87,10 @@ body {
     background-color: var(var(--botao-ativo));
   border-bottom: 4px solid var(--verde);
 }
+.aba-coteúdo.ativo{
+    display:block;
+}
+.aba-coteúdo{
+    display: nome;
+}
 
